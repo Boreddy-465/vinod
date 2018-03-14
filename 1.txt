@@ -1,0 +1,17 @@
+<html>
+<header>
+<body>
+<h>vinod profile </h>
+<a href="https://www.slideshare.net/AbhijithAugustine/microprocessors-and-microcontrollers-short-answer-questions-and-answers/html/" target="_top">www.slideshare.net/AbhijithAugustine/microprocessors-and-microcontrollers-short-answer-questions-and-answers</a>
+Try it Yourself »
+
+  
+
+
+         
+
+
+<p1><image src= "C:\Users\Del\Downloads\New folder\marguerite-daisy-beautiful-beauty.jpg" </p1>
+</body>
+</header>
+</html>
